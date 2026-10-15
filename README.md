@@ -2,7 +2,7 @@
 
 **RAG-Based AI Assistant** is a Python project that answers users' questions using information from PDF documents. The application searches the document for relevant text passages and sends them to **Gemini** to generate answers grounded in those sources.
 
-> **Project status:** A learning and portfolio project. The current version is designed to run locally. To run the code hosted on GitHub, you will need the required Python libraries, a Gemini API key, and a document index.
+> **Project status:** Learning project. The current version is designed to run locally. To run the code hosted on GitHub, you will need the required Python libraries, a Gemini API key, and a document index.
 
 ## Features
 
@@ -110,7 +110,7 @@ Set your own Gemini API key as an environment variable in Windows PowerShell:
 $env:GEMINI_API_KEY="YOUR_API_KEY"
 ```
 
-This command sets the key for the current terminal session. **Never upload your real API key to GitHub.** If your code uses a different environment variable name, change the command to match it.
+This command sets the key for the current terminal session. If your code uses a different environment variable name, change the command to match it.
 
 ### 5. Prepare the PDF and Document Index
 
