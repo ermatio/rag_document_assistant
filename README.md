@@ -4,6 +4,12 @@
 
 > **Project status:** Learning project. The current version is designed to run locally. To run the code hosted on GitHub, you will need the required Python libraries, a Gemini API key, and a document index.
 
+### User Interface
+![AI Assistant Interface](screenshots/interface.png)
+
+### Example Question and Answer
+![Question Answering Example](screenshots/interface2.png)
+
 ## Features
 
 - Extract text from PDF documents.
